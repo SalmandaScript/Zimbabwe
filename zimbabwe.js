@@ -74,6 +74,16 @@ color: "teal"
 });
 
 
+//previous page
+function zambia(){
+open("https://salmandascript.github.io/Zambia/Zambia.html");
+}
+
+//home page
+function africaOnline(){
+open("https://salmandascript.github.io/AfricaOnline/");
+}
+
 
 //quizz questions code 
 function checkAnswer()
